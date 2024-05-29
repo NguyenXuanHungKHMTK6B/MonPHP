@@ -1,0 +1,14 @@
+instanceof :  để kiểm tra đối tượng có thuộc về 1 lớp hay k
+Hàm khởi tạo: Constructor and destructor
+__constructor() : hàm tạo đối tượng
+__destructor() : hàm hủy đối tượng
+public : dùng trc thuôcj tính và phương thức, nếu k khai báo phạm vi thì phạm vi coi như là public
+preotected :
+private:
+intval($this ->Price.)
+
+abstract: 
+lớp ảo cha phải có ít nhất 1 phương thức ảo
+phương thức ảo là phương thưc chỉ có khai báo mà k có địnhh nghĩa
+1 lớp con kế thừa từ 1 lớp ảo thì phải định nghĩa laị các phương thức ảo ở lớp cha tức có thân hàm
+Xử dụng MySQLi để làm việc với csdl
